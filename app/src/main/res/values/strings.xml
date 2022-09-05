@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Live search sample</string>
+    <string name="search_hint">جستجو...</string>
+    <string name="connection_error">خطا در ارتباط</string>
+</resources>
